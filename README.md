@@ -23,3 +23,11 @@ This repository contains all the solution of Leet Code which is generally practi
     Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
     
     Solution FIle Name - Leet234 - Palindrome Linked List.py
+
+4. Problem 4 - https://leetcode.com/problems/remove-nth-node-from-end-of-list
+
+    Remove Nth Node From End of List
+
+    Given the head of a linked list, remove the nth node from the end of the list and return its head.
+    
+    Solution FIle Name - Leet19- Remove Nth Node From End of List.py
