@@ -22,3 +22,19 @@ This repository contains all the solution of Leet Code which is generally practi
     Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
     
     Solution FIle Name - Leet234 - Palindrome Linked List.py
+
+4. Problem 4 - https://leetcode.com/problems/remove-nth-node-from-end-of-list
+    
+    Remove Nth Node From End of List
+
+    Given the head of a linked list, remove the nth node from the end of the list and return its head.
+    
+    Solution FIle Name - Leet19- Remove Nth Node From End of List.py
+
+5. Problem 5 - https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+    
+   Remove Duplicates from Sorted List II
+
+   Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
+    
+    Solution FIle Name - Leet82 - Remove Duplicates from Sorted List II.py
