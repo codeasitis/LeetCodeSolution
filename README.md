@@ -38,3 +38,11 @@ This repository contains all the solution of Leet Code which is generally practi
    Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
     
     Solution FIle Name - Leet82 - Remove Duplicates from Sorted List II.py
+
+6. Problem 6 - https://leetcode.com/problems/spiral-matrix/
+    
+    Spiral Matrix
+
+    Given an m x n matrix, return all elements of the matrix in spiral order.
+    
+    Solution FIle Name - Leet54-Spiral Matrix.py
