@@ -17,6 +17,7 @@ This repository contains all the solution of Leet Code which is generally practi
  Solution File Name - Leet141- Link List Cycle.py
 
  3. Problem 3 - https://leetcode.com/problems/palindrome-linked-list/
+    
     Palindrome Linked List
 
     Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
@@ -33,9 +34,9 @@ This repository contains all the solution of Leet Code which is generally practi
 
 5. Problem 5 - https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
     
-   Remove Duplicates from Sorted List II
+    Remove Duplicates from Sorted List II
 
-   Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
+    Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
     
     Solution FIle Name - Leet82 - Remove Duplicates from Sorted List II.py
 
@@ -46,3 +47,11 @@ This repository contains all the solution of Leet Code which is generally practi
     Given an m x n matrix, return all elements of the matrix in spiral order.
     
     Solution FIle Name - Leet54-Spiral Matrix.py
+
+7. Problem 7 - https://leetcode.com/problems/set-matrix-zeroes/
+    
+    Set Matrix Zeroes
+
+    Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's. You must do it in place.
+    
+    Solution FIle Name - Leet73 - Set Matrix Zeroes.py
