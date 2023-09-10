@@ -71,8 +71,8 @@ This repository contains all the solution of Leet Code which is generally practi
 
     A valid BST is defined as follows:
 
-       a. The left subtree of a node contains only nodes with keys less than the node's key.
-       b. The right subtree of a node contains only nodes with keys greater than the node's key.
+       a. The left subtree of a node contains only nodes with keys **less than** the node's key.
+       b. The right subtree of a node contains only nodes with keys **greater than** the node's key.
        c. Both the left and right subtrees must also be binary search trees.
     
     Solution FIle Name - Leet98 - Validate Binary Search Tree.py
