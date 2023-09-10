@@ -62,3 +62,19 @@ This repository contains all the solution of Leet Code which is generally practi
     Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's. You must do it in place.
     
     Solution FIle Name - Leet73 - Set Matrix Zeroes.py
+
+7. Problem 8 - https://leetcode.com/problems/validate-binary-search-tree/
+    
+    Validate Binary Search Tree
+
+    Given the root of a binary tree, determine if it is a valid binary search tree (BST).
+
+    A valid BST is defined as follows:
+
+       a. The left subtree of a node contains only nodes with keys less than the node's key.
+       b. The right subtree of a node contains only nodes with keys greater than the node's key.
+       c. Both the left and right subtrees must also be binary search trees.
+    
+    Solution FIle Name - Leet98 - Validate Binary Search Tree.py
+
+    
