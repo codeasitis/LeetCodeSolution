@@ -29,7 +29,7 @@ This repository contains all the solution of Leet Code which is generally practi
 
     Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
     
-    Solution FIle Name - Leet234 - Palindrome Linked List.py
+    Solution File Name - Leet234 - Palindrome Linked List.py
 
 4. Problem 4 - https://leetcode.com/problems/remove-nth-node-from-end-of-list
     
@@ -37,7 +37,7 @@ This repository contains all the solution of Leet Code which is generally practi
 
     Given the head of a linked list, remove the nth node from the end of the list and return its head.
     
-    Solution FIle Name - Leet19- Remove Nth Node From End of List.py
+    Solution File Name - Leet19- Remove Nth Node From End of List.py
 
 5. Problem 5 - https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
     
@@ -45,7 +45,7 @@ This repository contains all the solution of Leet Code which is generally practi
 
     Given the head of a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list. Return the linked list sorted as well.
     
-    Solution FIle Name - Leet82 - Remove Duplicates from Sorted List II.py
+    Solution File Name - Leet82 - Remove Duplicates from Sorted List II.py
 
 6. Problem 6 - https://leetcode.com/problems/spiral-matrix/
     
@@ -53,7 +53,7 @@ This repository contains all the solution of Leet Code which is generally practi
 
     Given an m x n matrix, return all elements of the matrix in spiral order.
     
-    Solution FIle Name - Leet54-Spiral Matrix.py
+    Solution File Name - Leet54-Spiral Matrix.py
 
 7. Problem 7 - https://leetcode.com/problems/set-matrix-zeroes/
     
@@ -61,7 +61,7 @@ This repository contains all the solution of Leet Code which is generally practi
 
     Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's. You must do it in place.
     
-    Solution FIle Name - Leet73 - Set Matrix Zeroes.py
+    Solution File Name - Leet73 - Set Matrix Zeroes.py
 
 7. Problem 8 - https://leetcode.com/problems/validate-binary-search-tree/
     
@@ -75,6 +75,15 @@ This repository contains all the solution of Leet Code which is generally practi
        b. The right subtree of a node contains only nodes with keys greater than the node's key.
        c. Both the left and right subtrees must also be binary search trees.
     
-    Solution FIle Name - Leet98 - Validate Binary Search Tree.py
+    Solution File Name - Leet98 - Validate Binary Search Tree.py
 
+8. Problem 235 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+    
+   Lowest Common Ancestor of a Binary Search Tree
+
+   Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.
+
+    According to the definition of LCA on Wikipedia: “The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants (where we allow a node to be a descendant of itself).”
+    
+    Solution File Name - Leet235-Lowest Common Ancestor of a Binary Search Tree.py
     
