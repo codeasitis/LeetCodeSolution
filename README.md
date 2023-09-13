@@ -86,4 +86,11 @@ This repository contains all the solution of Leet Code which is generally practi
     According to the definition of LCA on Wikipedia: “The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants (where we allow a node to be a descendant of itself).”
     
     Solution File Name - Leet235-Lowest Common Ancestor of a Binary Search Tree.py
+
+9. Problem 235 - https://leetcode.com/problems/trapping-rain-water/
     
+   Trapping Rain Water
+
+   Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+    
+    Solution File Name - Leet42 - Trapping Rain Water.py    
