@@ -94,3 +94,21 @@ This repository contains all the solution of Leet Code which is generally practi
    Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
     
     Solution File Name - Leet42 - Trapping Rain Water.py    
+
+10. Problem 173 - https://leetcode.com/problems/binary-search-tree-iterator/
+    
+   Binary Search Tree Iterator
+
+   Implement the BSTIterator class that represents an iterator over the in-order traversal of a binary search tree (BST):
+
+    BSTIterator(TreeNode root) Initializes an object of the BSTIterator class. The root of the BST is given as part of the constructor. The pointer should be initialized to a non-existent number smaller than any element in the BST.
+
+    boolean hasNext() Returns true if there exists a number in the traversal to the right of the pointer, otherwise returns false.
+    
+    int next() Moves the pointer to the right, then returns the number at the pointer.
+    
+    Notice that by initializing the pointer to a non-existent smallest number, the first call to next() will return the smallest element in the BST.
+
+    You may assume that next() calls will always be valid. That is, there will be at least a next number in the in-order traversal when next() is called.
+    
+    Solution File Name - Leet173-Binary Search Tree Iterator.py
